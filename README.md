@@ -1,2 +1,2 @@
 # KNN-Classification
-Classification of seeds data using K-Nearest Neighbor Algorithm
+Manual classification of seeds data using K-Nearest Neighbor Algorithm without using ML library
